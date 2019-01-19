@@ -1,5 +1,5 @@
 # **Algoritmos de PAA - 2018.2**
-Implementação de quatro algoritmos para a disciplina de "[Projeto e Análise de Algoritmos](PAA)", no curso de [Ciência da Computação na Universidade Federal Rural de Pernambuco](UFRPE). Estruturas desenvolvidas conforme orientação do [Prof. Tiago B. A. de Carvalho](professor).
+Implementação de quatro algoritmos para a disciplina de "[Projeto e Análise de Algoritmos][PAA]", no curso de [Ciência da Computação na Universidade Federal Rural de Pernambuco - Unidade Acadêmica de Garanhuns][UFRPE]. Estruturas desenvolvidas conforme orientação do [Prof. Tiago B. A. de Carvalho][professor].
 
 # Implementações:
 
