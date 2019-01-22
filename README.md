@@ -3,17 +3,17 @@ Implementação de quatro algoritmos para a disciplina de "[Projeto e Análise d
 
 # Implementações:
 
-## Grafos
+## Grafo
 
-- [x] Dijkstra
+- [x] Algoritmo de Kruskal
 
 ## Paradigma Guloso
 
-- [x] Dijkstra
+- [x] Problema bitônico do caixeiro-viajante
 
 ## Backtracking
 
-- [ ] Não implementado ainda
+- [x] Permutação de números
 
 ## Branch and Bound
 
