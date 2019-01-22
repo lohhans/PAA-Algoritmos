@@ -1,0 +1,4 @@
+# Remoção do compilado do Python do repositório
+*.pyc
+*.o
+permutacao
