@@ -5,15 +5,15 @@ Implementação de quatro algoritmos para a disciplina de "[Projeto e Análise d
 
 ## Grafo
 
-- [x] Algoritmo de Kruskal
+- [x] [Algoritmo de Kruskal][grafo]
 
 ## Paradigma Guloso
 
-- [x] Problema bitônico do caixeiro-viajante
+- [x] [Problema bitônico do caixeiro-viajante][guloso]
 
 ## Backtracking
 
-- [x] Permutação de números
+- [x] [Permutação de números][bt]
 
 ## Branch and Bound
 
@@ -105,3 +105,7 @@ Implementação de quatro algoritmos para a disciplina de "[Projeto e Análise d
 [PAA]: https://sites.google.com/site/tiagoufrpe/home/projeto-e-analise-de-algoritmos-2018-2
 [UFRPE]: http://bcc.uag.ufrpe.br/~portal/
 [professor]: https://sites.google.com/site/tiagoufrpe/
+[grafo]: https://github.com/lohhans/PAA-Algoritmos#kruskal
+[guloso]: https://github.com/lohhans/PAA-Algoritmos#problema-bit%C3%B4nico-do-caixeiro-viajante
+[bt]: https://github.com/lohhans/PAA-Algoritmos#permuta%C3%A7%C3%A3o-de-n%C3%BAmeros
+<!-- [bnb]:  -->
