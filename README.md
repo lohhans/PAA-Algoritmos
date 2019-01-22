@@ -32,29 +32,29 @@ Implementação de quatro algoritmos para a disciplina de "[Projeto e Análise d
     Lista de adjacencia de um grafo G com 6 vértice e 8 arestas (3a coluna é o peso da aresta)
 
     ```
-    6 8 <br>
-    1 2 5 <br>
-    1 3 4 <br>
-    1 4 2 <br>
-    1 6 6 <br>
-    2 4 1 <br>
-    2 5 7 <br>
-    3 5 6 <br>
-    4 6 1 <br>
+    6 8
+    1 2 5
+    1 3 4
+    1 4 2
+    1 6 6
+    2 4 1
+    2 5 7
+    3 5 6
+    4 6 1
     ```
 
     Se a 3a coluna for omitida vale 1. Neste caso todos os pesos das arestas valem 1
 
     ```
-    6 8 <br>
-    1 2 <br>
-    1 3 <br>
-    1 4 <br>
-    1 6 <br>
-    2 4 <br>
-    2 5 <br>
-    3 5 <br>
-    4 6 <br>
+    6 8
+    1 2
+    1 3
+    1 4
+    1 6
+    2 4
+    2 5
+    3 5
+    4 6
     ```
 
     (...)
