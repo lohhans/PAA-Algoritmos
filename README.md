@@ -25,12 +25,13 @@ Implementação de quatro algoritmos para a disciplina de "[Projeto e Análise d
 
 ---
 
-* Dijkstra
+* #### **Kruskal:**
 
-    Neste algoritmo de grafo e guloso, o formato de entrada deverá ser feito da seguinte formas: lista com as arestas.
+    Neste algoritmo, o formato de entrada deverá ser feito da seguinte forma: lista com as arestas.
 
     Lista de adjacencia de um grafo G com 6 vértice e 8 arestas (3a coluna é o peso da aresta)
 
+    ```
     6 8 <br>
     1 2 5 <br>
     1 3 4 <br>
@@ -40,9 +41,11 @@ Implementação de quatro algoritmos para a disciplina de "[Projeto e Análise d
     2 5 7 <br>
     3 5 6 <br>
     4 6 1 <br>
+    ```
 
     Se a 3a coluna for omitida vale 1. Neste caso todos os pesos das arestas valem 1
 
+    ```
     6 8 <br>
     1 2 <br>
     1 3 <br>
@@ -52,6 +55,7 @@ Implementação de quatro algoritmos para a disciplina de "[Projeto e Análise d
     2 5 <br>
     3 5 <br>
     4 6 <br>
+    ```
 
     (...)
 
@@ -77,8 +81,24 @@ Implementação de quatro algoritmos para a disciplina de "[Projeto e Análise d
     (1,3) (1,4) (2,4) (3,5) (4,6)
     ```
 
-    * Os arquivos de entrada estão na pasta ../PAA-Algoritmos/Grafo & Guloso/*~aqui~*
+    * Os arquivos de entrada para este algoritmo estão na pasta ``../PAA-Algoritmos/Grafo/*aqui*``
 
+
+* #### **Problema bitônico do caixeiro-viajante:**
+
+    Não foi implementado método de leitura de dados, logo, qualquer alteração deve ser feita no arquivo de execução, localizado em: ``../PAA-Algoritmos/Guloso/teste.py``
+
+* #### **Permutação de números:**
+
+    Não foi implementado método de leitura de dados, logo, qualquer alteração deve ser feita no arquivo de execução, localizado em: ``../PAA-Algoritmos/Backtracking/main.c``
+
+    Para executar, use o comando ``make`` no terminal, o nome do binário será *permutacao*, então use:
+
+    ```
+    $ ./permutacao
+    ```
+
+* #### **Branch and Bound [Não implementado]:**
 
 <!-- Links -->
 
